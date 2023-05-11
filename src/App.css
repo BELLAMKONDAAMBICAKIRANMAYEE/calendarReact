@@ -1,0 +1,25 @@
+.calendar-container {
+  height: 500px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.rbc-calendar {
+  height: 100%;
+}
+
+.rbc-event {
+  background-color: #3174ad;
+  border-color: #3174ad;
+  color: #fff;
+}
+
+.rbc-toolbar-label {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.rbc-today {
+  background-color: #f2f2f2;
+}
